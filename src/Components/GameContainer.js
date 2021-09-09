@@ -28,7 +28,7 @@ function GameContainer() {
   }
 
   function win() {
-    if (score === 12) {
+    if (score === 16) {
       alert("You've won eh! Congrats 🥳");
       restart();
     }

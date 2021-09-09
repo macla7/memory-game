@@ -16,6 +16,15 @@ let images = [
   { url: "./images/Sam.webp", name: "Sam", clicked: false, id: 10 },
   { url: "./images/Sauron.jpg", name: "Sauron", clicked: false, id: 11 },
   { url: "./images/Smeagol.jpg", name: "Smeagol", clicked: false, id: 12 },
+  { url: "./images/Saruman.webp", name: "Saruman", clicked: false, id: 13 },
+  { url: "./images/Theoden.jpg", name: "Theoden", clicked: false, id: 14 },
+  {
+    url: "./images/ThisGuy.webp",
+    name: "Grumpy Hobbit",
+    clicked: false,
+    id: 15,
+  },
+  { url: "./images/Eowyn.jpg", name: "Eowyn", clicked: false, id: 16 },
 ];
 
 export default images;
